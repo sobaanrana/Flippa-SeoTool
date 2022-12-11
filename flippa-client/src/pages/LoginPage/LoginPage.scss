@@ -1,0 +1,23 @@
+.login-signup-container {
+  padding: 0px 30px;
+
+  .modal-footer {
+    .google {
+      color: #cf4332;
+      font-size: 16px;
+    }
+    .facebook {
+      color: #337fff;
+      font-size: 16px;
+    }
+
+    .ant-typography {
+      padding-left: 5px;
+    }
+  }
+
+  .sign-up-link {
+    color: #1890ff !important;
+    padding-top: 20px;
+  }
+}
